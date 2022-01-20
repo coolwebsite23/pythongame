@@ -8,4 +8,5 @@ while running:
   for event in pygame.event.get():
     if event.type == pygame.QUIT:
       running = False
- screen.
+ screen.fill(255,255,255);
+
